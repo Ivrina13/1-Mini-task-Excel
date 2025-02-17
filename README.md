@@ -27,4 +27,6 @@ Voici les questions adaptées en tenant compte des trois coffee shops :
 ## Conlusion 
 Le projet a réussi à répondre aux différentes questions concernant la performance des trois coffee shops. Les résultats obtenus peuvent être utilisés par les coffee shops pour prendre des décisions éclairées concernant leur marketing, leurs offres de produits et optimiser leur gestion afin de stimuler leur croissance.  
 
+
+_Dashboard intéractif effectué_ 
 ![image](https://github.com/user-attachments/assets/dd452845-b972-490a-a5e9-30751cbbe080)
