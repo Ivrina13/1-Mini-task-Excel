@@ -55,6 +55,6 @@ ________________________________________________________________________________
  
 
 ## Soft skills
-Esprit analytique : capacité à extraire des insights pertinents à partir de grands volumes de données
-Rigueur : structuration de l'analyse par axe (temps, lieu, produit)
-Sens du détail : identification des variations de comportement entre les coffee shops
+- Esprit analytique : capacité à extraire des insights pertinents à partir de grands volumes de données
+- Rigueur : structuration de l'analyse par axe (temps, lieu, produit)
+- Sens du détail : identification des variations de comportement entre les coffee shops
