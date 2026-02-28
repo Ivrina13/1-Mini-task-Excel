@@ -36,7 +36,7 @@ Le café est la catégorie reine dans les trois shops (environ 18 000 à 20 000 
  
 
 
-## Conlusion 
+## Conclusion 
 Le projet a réussi à répondre aux différentes questions concernant la performance des trois coffee shops. Les résultats obtenus peuvent être utilisés par les coffee shops pour prendre des décisions éclairées concernant leur marketing, leurs offres de produits et optimiser leur gestion afin de stimuler leur croissance.  
 
 
@@ -49,9 +49,9 @@ ________________________________________________________________________________
 
 
 ## Compétences métier
-Power Query (nettoyage et transformation des données)
-Analyse de données de vente (CA, transactions, segmentation par produit)
-Lecture et interprétation de KPIs commerciaux
+- Power Query (nettoyage et transformation des données)
+- Analyse de données de vente (CA, transactions, segmentation par produit)
+- Lecture et interprétation de KPIs commerciaux
  
 
 ## Soft skills
